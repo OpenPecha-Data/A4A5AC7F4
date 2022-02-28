@@ -1,0 +1,25 @@
+segment_sources:
+  PC3E75931:
+    type: origin_type
+    relation: translation
+    language: en
+  P40391E88:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1e273809c16d43e0bbc5b67c76e36e04:
+    PC3E75931: 1d4e130198f545dd9dd4be2f0740a107
+    P40391E88: d9635b35bf5f4cc0a18555b0a4c680e4
+  22f0ce0a1fec4f3fa40086eeee1c0596:
+    PC3E75931: d788ec6e84304326beab2dabeb768c85
+    P40391E88: 5b58334201eb47509f7b23a8de8c4f0e
+  d4c9f1205e07432ab951765622f6dbaa:
+    PC3E75931: 10ea69a3a4d3450eadf11f0776552fa5
+    P40391E88: 7757af18c16f4db5aebb6cb5039fa167
+  c10b82e887ef465786fae0d97a87419e:
+    PC3E75931: 56c5db29c38d49d3910022200363fc66
+    P40391E88: 87822776fb044718a850f019a9ad830a
+  d0db974717a1439cba9abfd771d64db7:
+    PC3E75931: 18f3762aa3b9415f9962b96d7f4a703e
+    P40391E88: 1f08246d909546ad96cdc7f7000edf43
